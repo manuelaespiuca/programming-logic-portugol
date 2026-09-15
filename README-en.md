@@ -23,7 +23,7 @@ Study repository with exercises and practical projects focused on programming lo
 └── projetos/ (5 projects)
 ```
 
-Each module has its own `README.md` with a list of exercises and specific instructions. Modules with distinct structures or concepts (such as loops and functions) are divided into subfolders. The others are organized directly by exercise number.
+Each module has its own `README.md` containing information on the topics covered, exercises, and the module's objective. Modules involving distinct structures or concepts (such as loops or functions) are organized into subfolders, while the others are arranged directly by exercise number.
 
 ## Module Progress
 

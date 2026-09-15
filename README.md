@@ -23,7 +23,7 @@ Repositório de estudo com exercícios e projetos práticos de lógica de progra
 └── projetos/ (5 projetos)
 ```
 
-Cada módulo tem seu próprio `README.md` com a lista de exercícios e instruções específicas. Módulos com estruturas ou conceitos distintos (repetição, funções) são divididos em subpastas. Os demais ficam organizados diretamente por número de exercício.
+Cada módulo tem seu próprio `README.md` com informações sobre os conteúdos abordados, exercícios e objetivo do módulo. Módulos com estruturas ou conceitos distintos (repetição, funções) são divididos em subpastas, enquanto os demais ficam organizados diretamente por número de exercício.
 
 ## Progresso dos módulos
 
